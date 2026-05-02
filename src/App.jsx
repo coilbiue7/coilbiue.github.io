@@ -214,7 +214,7 @@ export default function App() {
   return (
     <div 
       className="relative min-h-screen bg-black overflow-hidden flex flex-col font-sans text-[#f5f5f7] selection:bg-[#2997ff]/30 selection:text-white"
-      style={{ '--mouse-x': \`\${mousePos.x}px\`, '--mouse-y': \`\${mousePos.y}px\` }}
+      style={{ '--mouse-x': `${mousePos.x}px`, '--mouse-y': `${mousePos.y}px` }}
     >
       <style>{styleSheet}</style>
 
