@@ -1,0 +1,19 @@
+<svg width="720" height="860" viewBox="0 0 720 860" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M360 98c120 0 218 98 218 218S480 534 360 534 142 436 142 316 240 98 360 98Z" fill="url(#skin)" opacity=".95"/>
+  <path d="M220 490c34 63 86 95 140 95s106-32 140-95c84 28 142 108 142 202v78H78v-78c0-94 58-174 142-202Z" fill="url(#suit)"/>
+  <path d="M178 326c-16-148 70-256 186-256 125 0 199 76 210 188-78-32-158-65-245-38-57 18-104 58-151 106Z" fill="#111827"/>
+  <path d="M254 386c26 34 62 51 106 51s80-17 106-51" stroke="#08111F" stroke-width="14" stroke-linecap="round" opacity=".35"/>
+  <circle cx="286" cy="315" r="12" fill="#07111F"/><circle cx="438" cy="315" r="12" fill="#07111F"/>
+  <path d="M159 666h402" stroke="#5EE8FF" stroke-width="2" opacity=".45"/>
+  <path d="M118 746h484" stroke="#A98CFF" stroke-width="2" opacity=".26"/>
+  <g opacity=".58">
+    <rect x="88" y="82" width="148" height="48" rx="24" fill="#071322" stroke="#5EE8FF"/>
+    <text x="112" y="113" fill="#DFFBFF" font-family="Inter, Arial" font-size="18" font-weight="700">AI Trainer</text>
+    <rect x="462" y="130" width="170" height="48" rx="24" fill="#071322" stroke="#A98CFF"/>
+    <text x="489" y="161" fill="#F0E9FF" font-family="Inter, Arial" font-size="18" font-weight="700">QA System</text>
+  </g>
+  <defs>
+    <linearGradient id="skin" x1="153" y1="98" x2="567" y2="534"><stop stop-color="#D9F7FF"/><stop offset="1" stop-color="#9EB4FF"/></linearGradient>
+    <linearGradient id="suit" x1="78" y1="490" x2="642" y2="770"><stop stop-color="#0A1830"/><stop offset=".55" stop-color="#101B38"/><stop offset="1" stop-color="#07101E"/></linearGradient>
+  </defs>
+</svg>

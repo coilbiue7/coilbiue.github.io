@@ -1,0 +1,21 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1920" height="1080" fill="#030611"/>
+  <g opacity="0.7">
+    <circle cx="420" cy="260" r="330" fill="url(#a)"/>
+    <circle cx="1480" cy="410" r="430" fill="url(#b)"/>
+    <circle cx="960" cy="760" r="460" fill="url(#c)"/>
+  </g>
+  <g opacity="0.16">
+    <path d="M0 780C260 710 414 814 664 742C926 667 1070 496 1328 536C1542 568 1690 660 1920 610" stroke="#7BEFFF" stroke-width="2"/>
+    <path d="M0 514C230 440 450 514 662 454C878 392 1062 214 1290 302C1520 391 1684 446 1920 382" stroke="#A98CFF" stroke-width="2"/>
+  </g>
+  <g opacity="0.09">
+    <path d="M0 0H1920V1080H0z" fill="url(#grid)"/>
+  </g>
+  <defs>
+    <radialGradient id="a"><stop stop-color="#5EE8FF" stop-opacity="0.42"/><stop offset="1" stop-color="#5EE8FF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="b"><stop stop-color="#A98CFF" stop-opacity="0.38"/><stop offset="1" stop-color="#A98CFF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="c"><stop stop-color="#7CA7FF" stop-opacity="0.26"/><stop offset="1" stop-color="#7CA7FF" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" stroke="#fff" stroke-width="1"/></pattern>
+  </defs>
+</svg>
